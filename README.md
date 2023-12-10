@@ -64,3 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+USEFUL COMMANDS
+forge coverage --fork-url $SEPOLIA_RPC_URL  # test the coverage of your testing
+source .env
